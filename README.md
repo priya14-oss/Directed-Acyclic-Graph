@@ -635,7 +635,7 @@ Some possible improvements include:
 
 **Priya Singh**
 
-Frontend Developer | React.js | JavaScript | Python | FastAPI
+ React.js | JavaScript | Python | FastAPI
 
 ---
 
